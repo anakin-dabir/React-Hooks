@@ -1,6 +1,9 @@
 # React-Hooks
 
-<b>after pushing this repository type in terminal <p>cd React-Hooks</p> <p>npm i</p> <p> npm run dev </p><b> 
+After pushing this repository type in terminal:
+cd React-Hooks
+npm i
+npm run dev 
 
 React Hooks:
   - UseState
