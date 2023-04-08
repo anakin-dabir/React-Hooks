@@ -1,9 +1,9 @@
 # React-Hooks
 
 After pushing this repository type in terminal:
-cd React-Hooks
-npm i
-npm run dev 
+<p>- cd React-Hooks</p>
+<p>- npm i</p>
+<p>- npm run dev </p>
 
 React Hooks:
   - UseState
