@@ -1,6 +1,5 @@
 # React-Hooks
 
-After pushing this repository type in terminal:
 <p>- cd React-Hooks</p>
 <p>- npm i</p>
 <p>- npm run dev </p>
